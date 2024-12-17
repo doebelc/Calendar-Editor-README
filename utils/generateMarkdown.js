@@ -55,12 +55,12 @@ function generateMarkdown(data) {
 
 
   const tableOfContents = `
-- (#installation)
-- (#usage)
-- (#license)
-- (#contribution)
-- (#tests)
-- (#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Qustions](#questions)
 `;
 
 
@@ -93,7 +93,7 @@ function generateMarkdown(data) {
   ${data.contribution}
 
   ## Tests
-  To run tests, run the following command:
+  To run tests, run the following command in the terminal:
 
   \`\`\`
   ${data.tests}
@@ -103,6 +103,9 @@ function generateMarkdown(data) {
   If you have any questions, please reach out to me at ${data.email}.
 
   You can also find me on GitHub at (https://github.com/${data.github}).
+
+  ## Link to Repository
+  https://github.com/doebelc/Calendar-Editor-README.git
   `;
 
   fs.writeFile('./README2.md', markdownContent, (err) =>
