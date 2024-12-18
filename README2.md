@@ -48,3 +48,6 @@
   ## Link to Repository
   https://github.com/doebelc/Calendar-Editor-README.git
   
+  ## Link to Video Recording
+  https://drive.google.com/file/d/1SqRRDgWrHXMnsyaHlbITZkvdCFerK2n6/view
+  
