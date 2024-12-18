@@ -1,11 +1,11 @@
 
-  # Calendar Editor 
+  # Calendar Editor
 
   ## License Badge 
   https://img.shields.io/badge/License-MIT-yellow.svg
 
   ## Description
-  Calendar Editor allows users to add/remove events from their calendars, set reminders for example you may have a meeting coming up. It will also have a notes section if needed.
+  Calendar Editor allows users to add/remove events from their calendars, set reminders for example you may have am important meeting coming up. It will also have a notes section if needed.
 
   ## Table of Contents
   
@@ -41,7 +41,7 @@
   ```
 
   ## Questions
-  If you have any questions, please reach out to me at cjdoebel@gmail.com.
+  If you have any questions, please reach out to me at cjdoebel.
 
   You can also find me on GitHub at (https://github.com/doebelc).
 
